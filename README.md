@@ -26,3 +26,5 @@ After this question paper is converted to pdf file and emailed to colleges autom
 
 ![4](https://user-images.githubusercontent.com/26535872/42431874-87052846-8365-11e8-9061-bb6adc4eb074.png)
 
+##NOTE
+I made use of tkinter and fpdf libraries in my python script, there is a possibility that they might not work with all ide or python version as i faced this problem my self.
